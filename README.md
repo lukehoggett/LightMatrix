@@ -1,4 +1,4 @@
 LightMatrix
 ===========
 
-Generate an x by y grid of randomn colours.
+Generate an x by y grid of random colours.
